@@ -4,7 +4,7 @@
 
 请求方式：`HTTP POST`
 
-    https://pay.yunfu8.cc/get_pay/
+    https://pay.yunegm.cc/get_pay/
 
 >## 请求参数
 
@@ -48,7 +48,7 @@ remark|备注|string|传入的备注
     "order_id": "201931231113111111",
     "add_time": "2019-02-21 06:12:05",
     "channel": "cfpay",
-    "pay_url": "https://abc.yunfu8.cc/pay/20190320161805375396336",
+    "pay_url": "https://abc.yunegm.cc/pay/20190320161805375396336",
     "remark":"ceshi"
 }
 ```

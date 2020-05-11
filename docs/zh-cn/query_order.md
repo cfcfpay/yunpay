@@ -4,7 +4,7 @@
 
 请求方式：`HTTP POST`
 
-    https://pay.yunfu8.cc/query_order/
+    https://pay.yunegm.cc/query_order/
 
 >## 请求参数
 
